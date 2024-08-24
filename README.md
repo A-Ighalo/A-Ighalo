@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on open source projects, hackathons and Figma Designs
 - 📫 How to reach me @ 7052068142 and abrahamighalo2022@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I think a world of 100% automation won't be as bad as they say
+  
 
 <!---
 A-Ighalo/A-Ighalo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
