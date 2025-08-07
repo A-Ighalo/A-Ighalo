@@ -3,6 +3,7 @@
 - 🌱Currently building and chasing curiosity in AI and software engineering researching and building Fair and Equitable Recommender and Anomaly Detection systems using Machine Learning
 - 💞️I’m looking to collaborate on open source projects, hackathons and Design discussions
 - 📫How to reach me 📱 +1 705 206 8142(Canada) or @  abrahamighalo2022@gmail.com
+- ☁️Check out my generative AI apps on PartyRock https://partyrock.aws/apps
   
 
   
