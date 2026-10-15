@@ -7,7 +7,7 @@ I build data systems that turn messy, high-volume data into something reliable a
 ## 🔭 What I'm working on
 
 - 🚧 **Real-time Product Analytics & Integrity Platform**: streaming live Wikipedia activity through Kafka, Spark, Iceberg, Trino, dbt and Airflow to track engagement and detect bots *(in progress)*
-- 📄 Published in **IEEE (SNPD 2025)**: [*Quantum-Enhanced Data Analytics for Crime Prediction*](https://github.com/A-Ighalo/SNPD-CONFERRENCE-PAPER)
+- 📄 Published in **IEEE (SNPD 2025)**: [*Quantum-Enhanced Data Analytics for Crime Prediction*](https://ieeexplore.ieee.org/document/11253302) · [PDF](https://github.com/A-Ighalo/SNPD-CONFERRENCE-PAPER)
 
 ## 🛠️ Tech Stack
 
